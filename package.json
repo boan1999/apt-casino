@@ -27,7 +27,9 @@
     "compile:solana": "cd solana-programs && anchor build",
     "deploy:solana": "node solana-programs/scripts/deploy-solana.mjs",
     "bootstrap:solana": "node solana-programs/scripts/bootstrap-solana.mjs",
-    "postinstall": "patch-package"
+    "postinstall": "patch-package",
+    "preview": "opennextjs-cloudflare build && opennextjs-cloudflare preview",
+    "deploy": "opennextjs-cloudflare build && opennextjs-cloudflare deploy"
   },
   "dependencies": {
     "@aptos-labs/ts-sdk": "^3.1.3",
