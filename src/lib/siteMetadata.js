@@ -11,7 +11,7 @@ export const LITEPAPER_PATH = '/litepaper';
 /** Canonical litepaper URL on the production domain. */
 export const DEFAULT_LITEPAPER_URL = `${DEFAULT_SITE_URL}${LITEPAPER_PATH}`;
 
-export const SITE_NAME = 'APT Casino';
+export const SITE_NAME = 'BOAN GAME';
 
 /** White spade on purple gradient — `public/` + `src/app/icon.png` + `src/app/apple-icon.png`. */
 export const SITE_ICON_PATH = '/APT-Casino-Logo.png';
@@ -26,7 +26,7 @@ export const siteIcons = {
   apple: [{ url: SITE_ICON_PATH, sizes: '180x180', type: 'image/png' }],
 };
 
-export const DEFAULT_TITLE = 'APT Casino';
+export const DEFAULT_TITLE = 'BOAN GAME';
 
 export const DEFAULT_DESCRIPTION =
   'AptCasino.fun';
