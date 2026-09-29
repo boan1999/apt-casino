@@ -2,7 +2,7 @@
 
 Last updated: 2026-06-20
 
-How player funds, house edge, and payouts flow in the current APT Casino stack.
+How player funds, house edge, and payouts flow in the current BOAN GAME stack.
 
 ## Architecture (today)
 

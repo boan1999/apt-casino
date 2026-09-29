@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# APT Casino Deployment Script
+# BOAN GAME Deployment Script
 # This script deploys the entire casino application to Aptos testnet/mainnet and Vercel
 
 set -e
@@ -212,7 +212,7 @@ run_tests() {
 
 # Function to show help
 show_help() {
-    echo "APT Casino Deployment Script"
+    echo "BOAN GAME Deployment Script"
     echo ""
     echo "Usage: $0 [OPTIONS]"
     echo ""
@@ -279,7 +279,7 @@ fi
 
 # Main deployment function
 main() {
-    echo "🚀 APT Casino Deployment Script"
+    echo "🚀 BOAN GAME Deployment Script"
     echo "Network: $NETWORK"
     echo "Deploy Contracts: $DEPLOY_CONTRACTS"
     echo "Deploy Frontend: $DEPLOY_FRONTEND"

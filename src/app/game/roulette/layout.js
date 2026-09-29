@@ -1,8 +1,8 @@
 import { buildPageMetadata } from '@/lib/siteMetadata';
 
 export const metadata = buildPageMetadata({
-  title: 'Roulette | APT Casino',
-  description: 'European roulette with provably fair spins — bet on Solana or Aptos at APT Casino.',
+  title: 'Roulette | BOAN GAME',
+  description: 'European roulette with provably fair spins — bet on Solana or Aptos at BOAN GAME.',
   path: '/game/roulette',
 });
 

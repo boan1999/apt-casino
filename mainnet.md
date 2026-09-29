@@ -2,7 +2,7 @@
 
 Last updated: 2026-06-19
 
-Checklist for launching APT Casino on production infrastructure. Solana is the primary live chain; Aptos modules can run in parallel when `NEXT_PUBLIC_CASINO_MODULE_ADDRESS` is set and Aptos is marked `live` in the chain registry.
+Checklist for launching BOAN GAME on production infrastructure. Solana is the primary live chain; Aptos modules can run in parallel when `NEXT_PUBLIC_CASINO_MODULE_ADDRESS` is set and Aptos is marked `live` in the chain registry.
 
 ## APTC token (public IPO → Raydium)
 

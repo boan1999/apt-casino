@@ -101,7 +101,7 @@ export default function FeatureSection() {
                 <div className="flex h-full items-center justify-center px-6 text-center">
                   <div>
                     <Sparkles className="mx-auto mb-3 h-8 w-8 text-fuchsia-400/80" />
-                    <h3 className="text-lg font-medium text-white">APT Casino</h3>
+                    <h3 className="text-lg font-medium text-white">BOAN GAME</h3>
                     <p className="mt-1 text-sm text-white/60">Decentralized gaming, done right</p>
                   </div>
                 </div>

@@ -356,7 +356,7 @@ export default function OtcLotteryPage() {
                     </span>
                   </h1>
                   <p className="mt-4 text-base md:text-lg text-white/65 max-w-xl leading-relaxed">
-                    Send SOL, get reviewed, receive APTC straight from the APT Casino team — better than fighting DEX
+                    Send SOL, get reviewed, receive APTC straight from the BOAN GAME team — better than fighting DEX
                     slippage on size.
                   </p>
                 </div>

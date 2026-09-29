@@ -87,7 +87,7 @@ const HowItWorksSection = () => {
       <div className="max-w-6xl mx-auto relative z-10">
         <div className="flex flex-col items-center mb-10 text-center">
           <div className="w-20 h-1 bg-gradient-to-r from-red-magic to-blue-magic rounded-full mb-5"></div>
-          <h2 className="text-3xl md:text-4xl font-display font-bold text-white mb-3">How APT Casino Works</h2>
+          <h2 className="text-3xl md:text-4xl font-display font-bold text-white mb-3">How BOAN GAME Works</h2>
           <p className="text-white/70 max-w-2xl text-lg">Experience the future of decentralized gaming in four seamless steps</p>
         </div>
         

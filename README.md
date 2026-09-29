@@ -277,7 +277,7 @@ House edge overrides (basis points) are configurable per game via `NEXT_PUBLIC_H
 
 ```mermaid
 flowchart TB
-    ROOT["APT Casino Games"]
+    ROOT["BOAN GAME Games"]
 
     ROOT --> R["Roulette"]
     ROOT --> M["Mines"]

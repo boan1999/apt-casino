@@ -144,7 +144,7 @@ const STATUS = {
   },
   ready: {
     title: 'Unlock complete — payout queued',
-    body: 'Your lock period has ended. APT Casino ops will send APTC to your registered Solana wallet shortly.',
+    body: 'Your lock period has ended. BOAN GAME ops will send APTC to your registered Solana wallet shortly.',
     tone: 'emerald',
     pill: 'Ready for payout',
     icon: FaUnlock,
@@ -158,7 +158,7 @@ const STATUS = {
   },
   revoked: {
     title: 'Allocation revoked',
-    body: 'This allocation is no longer active. Contact the APT Casino team if you believe this is an error.',
+    body: 'This allocation is no longer active. Contact the BOAN GAME team if you believe this is an error.',
     tone: 'rose',
     pill: 'Revoked',
     icon: FaLock,
@@ -418,7 +418,7 @@ export default function KolPortalClient({ slug }) {
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
                   className="mt-1.5 w-full rounded-xl bg-black/50 border border-white/10 px-4 py-3 text-white placeholder:text-white/25 focus:border-fuchsia-500/50 focus:outline-none"
-                  placeholder="Provided by APT Casino team"
+                  placeholder="Provided by BOAN GAME team"
                   required
                   autoComplete="current-password"
                 />
@@ -433,7 +433,7 @@ export default function KolPortalClient({ slug }) {
               </button>
             </form>
             <p className="mt-6 text-center text-[11px] text-white/35">
-              Do not share your portal password. Contact APT Casino if you need a reset.
+              Do not share your portal password. Contact BOAN GAME if you need a reset.
             </p>
           </div>
         </div>
@@ -681,7 +681,7 @@ export default function KolPortalClient({ slug }) {
         {pwOpen ? (
           <div className="border-t border-white/10 px-5 py-4">
             <p className="text-xs text-white/45 mb-4">
-              Update your private portal password. Your APT Casino contact can see the latest value in the admin dashboard.
+              Update your private portal password. Your BOAN GAME contact can see the latest value in the admin dashboard.
             </p>
             <form onSubmit={changePassword} className="grid gap-3 sm:grid-cols-2 max-w-xl">
               <label className="block text-sm sm:col-span-2">

@@ -58,7 +58,7 @@ export function buildReferralShareChannels({ referralLink, tweetIntent = null })
   const bodyOnly = getReferralBroadcastBody();
   const full = encodeURIComponent(broadcastMessage);
   const url = encodeURIComponent(previewLink);
-  const title = encodeURIComponent('Join APT Casino — referral link');
+  const title = encodeURIComponent('Join BOAN GAME — referral link');
 
   const channels = [
     {

@@ -62,7 +62,7 @@ export const TOKEN_CONFIG = {
     type: "0x1::aptos_coin::AptosCoin"
   },
   APTC: {
-    name: "APT Casino Token",
+    name: "BOAN GAME Token",
     symbol: "APTC",
     decimals: 8,
     type: "0x1::coin::CoinStore<0x1::aptos_coin::AptosCoin>"

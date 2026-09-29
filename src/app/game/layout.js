@@ -1,9 +1,9 @@
 import { buildPageMetadata } from '@/lib/siteMetadata';
 
 export const metadata = buildPageMetadata({
-  title: 'Play Games | APT Casino',
+  title: 'Play Games | BOAN GAME',
   description:
-    'Provably fair roulette, mines, plinko, wheel and more — play with SOL or APT on APT Casino.',
+    'Provably fair roulette, mines, plinko, wheel and more — play with SOL or APT on BOAN GAME.',
   path: '/game',
 });
 

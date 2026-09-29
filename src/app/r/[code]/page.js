@@ -17,7 +17,7 @@ export default function ReferralShortLinkPage() {
       className="flex min-h-[40vh] flex-col items-center justify-center px-6 text-center text-white/80"
       aria-live="polite"
     >
-      <p className="text-lg">Taking you to APT Casino…</p>
+      <p className="text-lg">Taking you to BOAN GAME…</p>
       {code ? (
         <p className="mt-2 text-sm text-white/50">Referral {code.toUpperCase()} saved.</p>
       ) : null}

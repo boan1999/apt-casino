@@ -75,7 +75,7 @@ const PartnersSection = () => {
               <div className="p-4 bg-gradient-to-r from-red-magic/20 to-blue-magic/20 rounded-lg inline-block">
                 <h3 className="text-white font-medium mb-2">Interested in Partnering with Us?</h3>
                 <p className="text-white/70 text-sm">
-                  Join the APT Casino ecosystem and reach our growing player base on{' '}
+                  Join the BOAN GAME ecosystem and reach our growing player base on{' '}
                   <a
                     href="https://discord.gg/8dhBmbgMke"
                     target="_blank"

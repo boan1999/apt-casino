@@ -1,4 +1,4 @@
--- APT Casino — required schema only (no demo tournament/stream seeds).
+-- BOAN GAME — required schema only (no demo tournament/stream seeds).
 -- Run once in Supabase SQL Editor, or: npx supabase db push
 -- Server writes use SUPABASE_SERVICE_ROLE_KEY; anon is only for chat + public stream reads.
 

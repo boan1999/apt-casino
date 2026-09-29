@@ -1,7 +1,7 @@
 import { buildPageMetadata } from '@/lib/siteMetadata';
 
 export const metadata = buildPageMetadata({
-  title: 'Stake APTC | APT Casino',
+  title: 'Stake APTC | BOAN GAME',
   description:
     'Fixed-term APTC staking pools on Solana. Stake APTC, earn yield at lock, and claim principal plus rewards at maturity.',
   path: '/stake',

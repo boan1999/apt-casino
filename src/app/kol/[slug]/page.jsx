@@ -4,7 +4,7 @@ import { buildPageMetadata } from '@/lib/siteMetadata';
 export const metadata = {
   ...buildPageMetadata({
     title: 'KOL Partner Portal',
-    description: 'Private APTC allocation portal for APT Casino partners.',
+    description: 'Private APTC allocation portal for BOAN GAME partners.',
   }),
   robots: { index: false, follow: false },
 };

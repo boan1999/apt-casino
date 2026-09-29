@@ -1,7 +1,7 @@
 [package]
 name = "apt_casino"
 version = "0.1.0"
-description = "APT Casino Solana house vault + game audit log"
+description = "BOAN GAME Solana house vault + game audit log"
 edition = "2021"
 
 [lib]

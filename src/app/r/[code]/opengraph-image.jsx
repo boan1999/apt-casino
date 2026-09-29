@@ -4,7 +4,7 @@ import { GRANT_RECIPIENT_LINE, HACKATHON_WINNER_SHORT } from '@/lib/config/socia
 import { isValidReferralCode } from '@/lib/server/referrals';
 
 export const runtime = 'nodejs';
-export const alt = 'APT Casino referral invite';
+export const alt = 'BOAN GAME referral invite';
 export const size = { width: 1200, height: 630 };
 export const contentType = 'image/png';
 
@@ -50,7 +50,7 @@ export default async function Image({ params }) {
         >
           <img
             src={logoUrl}
-            alt="Apt Casino Logo"
+            alt="BOAN GAME Logo"
             width={190}
             height={190}
             style={{

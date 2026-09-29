@@ -1,4 +1,4 @@
-//! APT Casino on Solana — house vault + per-player ledger + game audit log.
+//! BOAN GAME on Solana — house vault + per-player ledger + game audit log.
 //! Mirrors Aptos `user_balance` custody and `game_logger` (not full on-chain games).
 
 use anchor_lang::prelude::*;

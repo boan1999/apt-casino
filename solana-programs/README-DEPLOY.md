@@ -1,4 +1,4 @@
-# Solana program — APT Casino (`apt_casino`)
+# Solana program — BOAN GAME (`apt_casino`)
 
 Last updated: 2026-05-27
 
