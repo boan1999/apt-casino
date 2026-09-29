@@ -84,3 +84,9 @@ fix_mineshistory.sh
 install_cli.py
 patch.diff
 replace_text.js
+
+# OpenNext / Cloudflare build output
+.open-next/
+
+# Wrangler local state
+.wrangler/
